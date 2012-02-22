@@ -2,7 +2,7 @@
 id=removetemporarily@adblockplus.org
 basename=removetemporarily
 branchname=REMOVE_TEMPORARILY
-version=1.0
+version=1.0.1a
 author=Wladimir Palant
 restartless=true
 nojar=true

@@ -9,4 +9,4 @@ author=Wladimir Palant
 default=https://addons.mozilla.org/addon/remove-temporarily/
 
 [compat]
-firefox=10.0/17.0a1
+firefox=10.0/18.0a1

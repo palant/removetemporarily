@@ -1,7 +1,6 @@
 [general]
 id=removetemporarily@adblockplus.org
 basename=removetemporarily
-branchname=REMOVE_TEMPORARILY
 version=1.0.2a
 author=Wladimir Palant
 
